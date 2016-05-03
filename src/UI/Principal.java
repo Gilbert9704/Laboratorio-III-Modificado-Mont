@@ -24,8 +24,6 @@ public class Principal {
         ArchivoInf info = new ArchivoInf();
         UI ui = new UI();
         
-        
-        
         ui.iniciarPrograma();
     }
     
